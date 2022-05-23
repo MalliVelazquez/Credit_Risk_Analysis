@@ -61,4 +61,6 @@ The purpose of this analysis is to create a machine learning model to predict an
 
 ## Summary
 
-As we can see in the previous analysis, the 6 options for risk determination can be viable and would give us a fairly accurate prediction, however the most accurate turns out to be the Easy Ensemble Classifying model.
+As we can see in the previous analysis, 5 options for risk determination can be viable and would give us a fairly accurate prediction, however the most accurate turns out to be the Easy Ensemble Classifying model.
+
+I do not recomend the model Cluster Centroid Undersampling since this just have an Accuracy Score of 51.9% wich can not be very helpful. 
